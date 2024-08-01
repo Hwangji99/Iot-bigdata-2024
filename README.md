@@ -39,9 +39,9 @@
 
 - 빅데이터 학습
     - 실습자료, 빅데이터 분석 기초학습
-    - [넘파이]()
-    - [판다스]()
-    - [맷플롭립]()
+    - [넘파이](https://github.com/Hwangji99/Iot-bigdata-2024/blob/main/day01/bda01_numpy_basic.ipynb)
+    - [판다스](https://github.com/Hwangji99/Iot-bigdata-2024/blob/main/day01/bda02_pandas_basic.ipynb)
+    - [맷플롭립](https://github.com/Hwangji99/Iot-bigdata-2024/blob/main/day01/bda03_matplotlib_basic.ipynb)
 
 ## 2일차(2024-08-02)
 - 
