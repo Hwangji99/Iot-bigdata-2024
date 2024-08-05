@@ -68,9 +68,15 @@
     - [자바2024](https://github.com/hugoMGSung/bigdata-analysis-2024)
     - [강사나머지교안](https://github.com/hugoMGSung/works-need-it-data-analysis)
     - [멀티캠퍼스서울2021](https://github.com/ckiekim/DataAnalysis-2021-3)
+    - [위키북스_데이터분석실무](https://github.com/CityHopper/playwithdata)
+
+    - 수집방법, 데이터 전처리, 분석/시각화 어떤 알맞은 방법을 쓰는지 선별
+    - 단순 빅데이터 분석방법은 깃헙에서 참조만 해도 많을 것을 찾아볼 수 있음
+
 
 ## 4일차(2024-08-06)
-- 
+- 머신러닝, 딥러닝
+    
 
 ## 5일차(2024-08-07)
 - 
