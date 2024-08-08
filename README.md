@@ -99,9 +99,18 @@
 
 ## 5일차(2024-08-07)
 - 머신러닝, 딥러닝
-    - [파이토치기본]()
-    - [회귀분석]()
-    - [...]()
+    - ML(Machine Learning) -> DL(Deep Learning) -> NLP(Natural Language Processing) ...
+    - [파이토치기본](https://github.com/Hwangji99/Iot-bigdata-2024/blob/main/day05/bda10_pytorch_basic.ipynb)
+    - 타이타닉 생존자 예측
+    - [ML회귀분석](https://github.com/Hwangji99/Iot-bigdata-2024/blob/main/day05/bda11_linear_regression.ipynb)
 
 ## 6일차(2024-08-08)
-- 
+- 머신러닝, 딥러닝
+    - 타이타닉 생존자 예측(계속)
+    - 사이킷런(로지스틱), 파이토치 생존자 예측 비교
+    - [ML회귀분석](https://github.com/Hwangji99/Iot-bigdata-2024/blob/main/day05/bda11_linear_regression.ipynb)
+    
+## 6일차(2024-08-09)
+- 머신러닝, 딥러닝
+    - CNN(Convolution NN)
+    - 이미지 분류
