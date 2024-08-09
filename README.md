@@ -110,7 +110,7 @@
     - 사이킷런(로지스틱), 파이토치 생존자 예측 비교
     - [ML회귀분석](https://github.com/Hwangji99/Iot-bigdata-2024/blob/main/day05/bda11_linear_regression.ipynb)
     
-## 6일차(2024-08-09)
+## 7일차(2024-08-09)
 - 머신러닝, 딥러닝
     - CNN(Convolution NN)
     - 이미지 분류
