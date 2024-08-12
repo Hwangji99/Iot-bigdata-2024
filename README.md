@@ -113,4 +113,10 @@
 ## 7일차(2024-08-09)
 - 머신러닝, 딥러닝
     - CNN(Convolution NN)
-    - 이미지 분류
+    - [이미지분류](https://github.com/Hwangji99/Iot-bigdata-2024/blob/main/day06/bda12_image_class.ipynb)
+
+## 8일차(2024-08-12)
+- 머신러닝, 딥러닝
+    - 객체탐지(Object Detection)
+    - OpenCV, Yolov8
+    
