@@ -119,4 +119,9 @@
 - 머신러닝, 딥러닝
     - 객체탐지(Object Detection)
     - OpenCV, Yolov8
+    - [Yolov8](https://github.com/Hwangji99/Iot-bigdata-2024/blob/main/day07/bda13_object_detection.ipynb)
+
+## 9일차(2024-08-13)
+- 머신러닝, 딥러닝 개인 클로닝
+    - 예제 리포지토리, Cloning
     
