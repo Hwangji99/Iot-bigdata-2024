@@ -121,7 +121,13 @@
     - OpenCV, Yolov8
     - [YOLOv8](https://github.com/Hwangji99/Iot-bigdata-2024/blob/main/day07/bda13_object_detection.ipynb)
 
-    <img src="" width="700">
+    <img src="https://github.com/Hwangji99/Iot-bigdata-2024/blob/main/day07/20240812_151755471.jpg?raw=true" width="700">
+
+    
+
+    https://github.com/user-attachments/assets/d28676ed-d522-448a-b573-8a0e0cff9cdd
+
+
 
 ## 9일차(2024-08-13)
 - 머신러닝, 딥러닝 개인 클로닝
